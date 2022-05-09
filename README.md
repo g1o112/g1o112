@@ -17,7 +17,8 @@
  .₊ ‧☆°.₊ ‧  <a href="https://www.instagram.com/1211am_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gionassar89@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href= "https://open.spotify.com/user/qkxhuqxavxpeqo6l8tahyvymh?si=xvMLfdQlSnK9MHkR1ZHPhA&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> ☆°.₊ ‧.₊ ‧
-
+   </div>
+ <div>
  
  ![Snake animation](https://github.com/g1o112/g1o112/blob/output/github-contribution-grid-snake.svg)
   </div>
