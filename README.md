@@ -1,5 +1,5 @@
 ## Hii! I´m °.₊ ‧✮ Giovanna Nassar ☆°.₊ ‧
-- ✪ Pronomes: ela/dela
+- ✪ Pronouns: she/her
  <div align="left">
   <a href="https://github.com/g1o112">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g1o112&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
