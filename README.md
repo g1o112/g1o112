@@ -20,6 +20,6 @@
   <a href= "https://open.spotify.com/user/qkxhuqxavxpeqo6l8tahyvymh?si=xvMLfdQlSnK9MHkR1ZHPhA&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
 
  
-  ![Snake animation](https://github.com/g1o112/g1o112/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/g1o112/g1o112/blob/output/github-contribution-grid-snake.svg)
   </div>
 
