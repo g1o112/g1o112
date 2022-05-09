@@ -1,16 +1,26 @@
-### Hi there 👋
+## Oioii! Sou a  ‧₊.°☆ Giovanna Nassar ☆°.₊ ‧
+- ✪ Pronomes: ela/dela
+ <div align="left">
+  <a href="https://github.com/g1o112">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g1o112&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g10112&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
+ ##
+  
+<div>
+  <img align="right" alt="Gio-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/c3/0c/39/c30c39ce5f018ec344e90525f466b635.jpg">
+</div>
+  
+  
+  
+<div>
+ 
+  <a href="https://www.instagram.com/1211am_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gionassar89@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href= "https://open.spotify.com/user/qkxhuqxavxpeqo6l8tahyvymh?si=xvMLfdQlSnK9MHkR1ZHPhA&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
 
-<!--
-**g1o112/g1o112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+  ![Snake animation](https://github.com/g1o112/g1o112/blob/output/github-contribution-grid-snake.svg)
+  </div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
