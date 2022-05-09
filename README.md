@@ -1,4 +1,4 @@
-## Oioi! Sou a °.₊ ‧✮ Giovanna Nassar ☆°.₊ ‧
+## Hii! I´m °.₊ ‧✮ Giovanna Nassar ☆°.₊ ‧
 - ✪ Pronomes: ela/dela
  <div align="left">
   <a href="https://github.com/g1o112">
