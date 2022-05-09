@@ -3,7 +3,7 @@
  <div align="left">
   <a href="https://github.com/g1o112">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g1o112&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g1o112&layout=compact&langs_count=7&theme=tokyonight"/>
+
 </div>
   
  ##
@@ -19,7 +19,7 @@
   <a href = "mailto:ginassar89@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href= "https://open.spotify.com/user/qkxhuqxavxpeqo6l8tahyvymh?si=xvMLfdQlSnK9MHkR1ZHPhA&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> ☆°.₊ ‧.₊ ‧
  
- 
+   ![Snake animation](https://github.com/g1o112/g1o112/blob/output/github-contribution-grid-snake.svg)
 
   </div>
 
