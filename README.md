@@ -1,6 +1,6 @@
 ## Hii! I´m °.₊ ‧✮ Giovanna Nassar ☆°.₊ ‧
 - ✪ Pronouns: she/her
- <div align="left">
+ <div align="center">
   <a href="https://github.com/g1o112">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g1o112&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
@@ -9,7 +9,7 @@
  ##
   
 <div>
-  <img align="right" alt="Gio-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/c3/0c/39/c30c39ce5f018ec344e90525f466b635.jpg">
+  <img align="right" alt="Gio-pic" height="150" style="border-radius:60px" src="https://i.pinimg.com/564x/c3/0c/39/c30c39ce5f018ec344e90525f466b635.jpg">
 </div>
   
   
