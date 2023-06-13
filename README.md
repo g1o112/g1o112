@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+Code&size=35&pause=1000&color=0c3361&center=true&width=1000&lines=Hi+i'm+Giovanna+Nassar;17+years+old)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700+Code&size=35&pause=1000&color=2596be&center=true&width=1000&lines=Hi+i'm+Giovanna+Nassar;17+years+old;Front-end+Student)](https://git.io/typing-svg)
 
  <div align="left">
   <a href="https://github.com/g1o112">
