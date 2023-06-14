@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700+Code&size=35&pause=1000&color=6896e6&center=true&width=1000&lines=Hi+i'm+Giovanna+Nassar;17+years+old;Front-end+Student)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=g1o112&bg_color=0d1117&color=3fd19b&line=ff91a4&point=3fd19b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=g1o112&bg_color=0d1117&color=3fd19b&line=6896e6&point=3fd19b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
  <div align="center">
   <a href="https://github.com/g1o112">
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=g1o112&show_icons=true&count_private=true&hide_border=true&title_color=6896e6&icon_color=3fd19b&text_color=ff91a4&bg_color=0d1117" alt="Gio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g1o112&layout=compact&hide_border=true&title_color=6896e6&text_color=ff91a4&bg_color=0d1117" />
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=g1o112&show_icons=true&count_private=true&hide_border=true&title_color=6896e6&icon_color=3fd19b&text_color=eeee&bg_color=0d1117" alt="Gio github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g1o112&layout=compact&hide_border=true&title_color=6896e6&text_color=eeee&bg_color=0d1117" />
 </div>
   
   
