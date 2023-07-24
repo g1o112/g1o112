@@ -5,12 +5,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=g1o112&bg_color=0d1117&color=3fd19b&line=6896e6&point=f8c0d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
- <div align="center">
-  <a href="https://github.com/g1o112">
-    <img width="49%" height="195px" src="https://gio-repository-git-main-g1o112.vercel.app/api?username=g1o112&show_icons=true&theme=tokyonight"/>
-   <img width="41%" height="180px" src="https://gio-repository-git-main-g1o112.vercel.app/api/top-langs/?username=g1o112&layout=compact&theme=tokyonight" /> 
-</div>
-  
+ 
  <br>
   
 <div align="center">
