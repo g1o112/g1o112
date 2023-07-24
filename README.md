@@ -7,8 +7,8 @@
 
  <div align="center">
   <a href="https://github.com/g1o112">
-    <img width="49%" height="195px" src="https://gio-repository.vercel.app/api?username=g1o112&show_icons=true&theme=tokyonight"/>
-   <img width="41%" height="180px" src="https://gio-repository.vercel.app/api/top-langs/?username=g1o112&layout=compact&theme=tokyonight" /> 
+    <img width="49%" height="195px" src="https://gio-repository-git-main-g1o112.vercel.app/api?username=g1o112&show_icons=true&theme=tokyonight"/>
+   <img width="41%" height="180px" src="https://gio-repository-git-main-g1o112.vercel.app/api/top-langs/?username=g1o112&layout=compact&theme=tokyonight" /> 
 </div>
   
  <br>
