@@ -22,7 +22,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40"> A little more about me...  
  ```javascript
 const gio = {
   pronouns: "she" | "her",
