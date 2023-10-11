@@ -1,19 +1,19 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffd3e1&height=120&section=header"/>
-<h2 align="center">👋 Hello! I'm Giovanna</h2> 
+<h2 align="center">👋 Hello! I'm Giovanna </h2> 
  <br>
  
 - 🌱 I’m currently learning more about Data Science, Machine Learning and Analytics
-- 💬 Ask me about **Git and Python**
+- 💬 Ask me about `Git and Python`
 - 📫 How to reach me: [Giovanna Nassar](https://www.linkedin.com/in/giovanna-nassar/) on Linkedin
 - 👾 Fun fact: I love designing websites on Figma
 
- ## Contact me
+ ### Contact me
 
  <a href = "mailto:giovanna.nassarsantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/giovanna-nassar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 
 
-## Technologies
+### Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,7 +24,7 @@
 <details>
 <summary> 
  
- ## A little more about me...
+ ### A little more about me...
  
 </summary>
 
