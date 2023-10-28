@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffd3e1&height=120&section=header"/>
-<h2 align="center">👋 Hello! I'm Giovanna </h2> 
+<h2 align="center">👋 Hi! I'm Giovanna </h2> 
  <br>
  
 - 🌱 I’m currently learning more about Data Science, Machine Learning and Analytics
