@@ -1,25 +1,35 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffd3e1&height=120&section=header"/>
-<h2 align="center">👋 Hi! I'm Giovanna </h2> 
- <br>
+# 👋 Hi! I'm Giovanna
+ Data Scientist | Machine Learning Student | São Paulo, Brazil
+
+Welcome to my profile! I'm passionate about data analysis and machine learning, currently focused on predictive modeling in healthcare as part of a scientific initiation, and data analysis using the Power BI tool. My goal is to constantly push the boundaries of technology in this field.
+
+## 📚 Summary
  
 - 🌱 I’m currently learning more about Data Science, Machine Learning and Analytics
-- 💬 Ask me about `Git and Python`
+- 💬 Ask me about `Power BI and Python`
 - 📫 How to reach me: [Giovanna Nassar](https://www.linkedin.com/in/giovanna-nassar/) on Linkedin
 - 👾 Fun fact: I love designing websites on Figma
 
- ### Contact me
-
- <a href = "mailto:giovanna.nassarsantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/giovanna-nassar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-
-
-### Technologies
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## ⭐ Objective
+
+I'm constantly striving for excellence, dedicating myself to delivering quality work. In the field of data science and machine learning, I seek to inspire innovation for a sustainable future.
+
+## 🌍💻 Let's Connect
+
+ <a href = "mailto:giovanna.nassarsantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <br>
+ <a href="https://www.linkedin.com/in/giovanna-nassar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 
 <details>
 <summary> 
@@ -33,7 +43,6 @@ const gio = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, C, Python],
   more: {
-                        lifeCommunities: "Arco-iris",
                         petLover: "Cats",
                         student: "Computer Science",
                         focusOn: "Machine Learning", "Data Science"
@@ -42,4 +51,3 @@ const gio = {
 }
 ```
 </details>
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffd3e1&height=120&section=footer"/>
