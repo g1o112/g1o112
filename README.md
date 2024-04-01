@@ -1,14 +1,14 @@
-# 👋 Hi! I'm Giovanna
+# 👋 Hello, I'm Giovanna Nassar
  Data Scientist | Machine Learning Student | São Paulo, Brazil
 
 Welcome to my profile! I'm passionate about data analysis and machine learning, currently focused on predictive modeling in healthcare as part of a scientific initiation, and data analysis using the Power BI tool. My goal is to constantly push the boundaries of technology in this field.
 
 ## 📚 Summary
  
-- 🌱 I’m currently learning more about Data Science, Machine Learning and Analytics
-- 💬 Ask me about `Power BI and Python`
-- 📫 How to reach me: [Giovanna Nassar](https://www.linkedin.com/in/giovanna-nassar/) on Linkedin
-- 👾 Fun fact: I love designing websites on Figma
+-  I’m currently learning more about Data Science, Machine Learning and Analytics
+-  Ask me about `Power BI and Python`
+-  How to reach me: [Giovanna Nassar](https://www.linkedin.com/in/giovanna-nassar/) on Linkedin
+-  Fun fact: I love designing websites on Figma
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=ffdd54)
